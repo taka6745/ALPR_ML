@@ -1,0 +1,5 @@
+tensorflow==2.x.x
+opencv-python-headless==4.x.x
+numpy==1.x.x
+pytesseract==0.3.x
+Pillow==8.x.x
