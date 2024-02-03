@@ -31,6 +31,3 @@ Please refer to `requirements.txt` for the detailed list of dependencies.
 
 ## Portfolio
 See `portfolio.json` for a summary of project metadata and performance metrics.
-
-## License
-[Your License Here]
