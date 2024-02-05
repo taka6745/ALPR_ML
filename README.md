@@ -21,6 +21,8 @@ The license plate detection module is a deep learning model built on the Efficie
 The initial dataset, sourced from Kaggle, is limited in both size and diversity, posing a challenge for training a model to the desired level of accuracy. To address this, we recommend enhancing the dataset with additional images, such as those from the UFPR ALPR dataset, and improving the quality of annotations for more effective training.
 
 ![Car Original](Cars94.png)
+<br>
+<br>
 ![Cropped Plate](cropped_Cars94.png)
 
 ### Improving the Model
